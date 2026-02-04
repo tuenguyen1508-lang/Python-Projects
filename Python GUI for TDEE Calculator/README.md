@@ -5,7 +5,7 @@ The app also provides helpful reference information such as average TDEE values 
 
 ---
 
-## 🧠 What Is TDEE?
+## What Is TDEE?
 
 **Total Daily Energy Expenditure (TDEE)** is the total number of calories your body burns in a day. It combines:
 
@@ -18,7 +18,7 @@ In this app, we first calculate **BMR**, then multiply it by an **activity facto
 
 ---
 
-## 🎯 App Objectives
+## App Objectives
 
 - Allow users to **input** their personal details via a GUI
 - Calculate **BMR** using gender-specific formulas  
@@ -29,7 +29,7 @@ In this app, we first calculate **BMR**, then multiply it by an **activity facto
 <img width="394" height="361" alt="image" src="https://github.com/user-attachments/assets/b89c2618-6988-4198-a331-c747a2aaad7b" />
 ---
 
-## 📥 Inputs & 📤 Outputs
+## Inputs & Outputs
 
 ### User Inputs (via GUI)
 
@@ -50,7 +50,7 @@ In this app, we first calculate **BMR**, then multiply it by an **activity facto
 <img width="226" height="203" alt="image" src="https://github.com/user-attachments/assets/1655cb7c-a539-4b44-a823-9a0486e1e38c" />
 ---
 
-## 📊 Reference Information
+## Reference Information
 
 ### Average TDEE (Ages 19–22)
 
@@ -80,7 +80,7 @@ In this app, we first calculate **BMR**, then multiply it by an **activity facto
 
 ---
 
-## 🧩 Calculation Logic
+## Calculation Logic
 
 ### 1️⃣ Step 1 – Calculate BMR
 
